@@ -1,8 +1,5 @@
 ## Hi, I'm Nishanki Mudgal 👋
-Academic Researcher & Biology Subject Matter Expert.
-
-<!--
-**Nishanki19bio/Nishanki19bio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Academic Researcher & Biology Subject Matter Expert
 
 ​I am a highly motivated Biotechnology postgraduate with a strong foundation in Life Sciences. My expertise lies in simplifying complex biological concepts and contributing to scientific data interpretation
 
